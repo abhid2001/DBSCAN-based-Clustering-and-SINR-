@@ -1,4 +1,4 @@
-# DBSCAN-based-Clustering-and-SINR-
+# DBSCAN-based-Clustering-and-SINR
 
 This project involves doing DBSCAN clustering algorithm for D2D and UE nodes, and calculation for SINR values of each cluster where each D2D node starts after 1 second.
 ## Team
